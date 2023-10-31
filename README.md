@@ -9,6 +9,8 @@ Testing automation using Cypress
 |--|---|
 |[site/status.cy.js](./cypress/e2e/site/status.cy.js)|Site is Ok.|
 |[auth/validations.cy.js](./cypress/e2e/auth/validations.cy.js)|The login perform shows the proper error messages.|
+|[auth/login.cy.js](./cypress/e2e/auth/login.cy.js)|The login form works properly.|
+|[dashboard/modal.cy.js](./cypress/e2e/dashboard/modal.cy.js)|The dashboard sidebar works successfully.|
 
 ## Instructions
 
